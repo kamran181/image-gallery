@@ -1,0 +1,26 @@
+body {
+    background-color: cadetblue;
+    font-family: 'Passions Conflict', cursive;
+}
+
+h1{
+    font-weight: 600;
+    font-size: 60px;
+    border-bottom: 5px solid pink;
+    width: 300px;
+    margin-left: 50px;
+    border-right: 5px solid pink;
+    padding: 5px;
+}
+
+img {
+    height: 300px;
+    width: 460px;
+    margin: 7px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
